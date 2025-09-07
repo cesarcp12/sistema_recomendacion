@@ -1,4 +1,13 @@
 # Sistema de Recomendación de Chistes: Del Colaborativo a la Factorización de Matrices
+
+## 0. Descarga y Acceso al Código
+El código de este proyecto está disponible en el siguiente repositorio de GitHub. Puedes clonarlo usando el siguiente comando:
+
+    git clone https://github.com/cesarcp12/sistema_recomendacion.git
+
+O bien, puedes descargar el archivo .zip desde la pagina de github https://github.com/cesarcp12/sistema_recomendacion
+ directamente desde la página del repositorio en tu navegador.
+
 ## 1. Contexto y Datasets
 Este notebook se centra en la implementación y análisis de un sistema de recomendación para chistes. El proyecto utiliza el dataset Jester-17M, una colección masiva de calificaciones de chistes, que se divide en dos archivos principales:
 
